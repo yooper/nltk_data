@@ -1,7 +1,20 @@
-Data Distribution for NLTK
+Data Distribution for PHP Text Analysis
 
-Install using NLTK downloader: nltk.download()
+List the available packages for download
+```php 
+php textconsole pta:list 
+```
 
-For instructions please see http://www.nltk.org/
+Install Wordnet Corpus
+```php
+php textconsole pta:install wordnet
+```
+
+Install Everything
+```php
+php textconsole pta:install:all
+```
+
+For instructions please see https://github.com/yooper/php-text-analysis/wiki
 
 
