@@ -1,18 +1,19 @@
-Data Distribution for PHP Text Analysis
+# Data Distribution for PHP Text Analysis
+PHP Text Analysis (PTA) is a superset of NLTK data. 
 
 List the available packages for download
 ```php 
-php textconsole pta:list 
+php textconsole nltk:list 
 ```
 
 Install Wordnet Corpus
 ```php
-php textconsole pta:install wordnet
+php textconsole nltk:install wordnet
 ```
 
 Install Everything
 ```php
-php textconsole pta:install:all
+php textconsole nltk:install:all
 ```
 
 For instructions please see https://github.com/yooper/php-text-analysis/wiki
