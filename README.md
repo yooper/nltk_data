@@ -1,4 +1,4 @@
-nltk_data
+pta_data
 =========
 
-NLTK Data lives in the gh-pages branch of this repository.
+PHP Text Analysis (PTA) Data lives in the gh-pages branch of this repository. This is a superset of NLTK data repository.
