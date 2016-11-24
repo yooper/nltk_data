@@ -1,0 +1,6 @@
+<package id='stanford_ner_tagger' 
+         name='Stanford Named Entity Recognition'
+         languages="English"
+         unzip="1"
+         url="http://nlp.stanford.edu/software/stanford-ner-2015-12-09.zip"
+         />

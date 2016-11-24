@@ -1,0 +1,6 @@
+<package id='stanford_pos_tagger' 
+         name='Stanford Log-linear Part-Of-Speech Tagger'
+         languages="English"
+         unzip="1"
+         url="http://nlp.stanford.edu/software/stanford-postagger-2015-12-09.zip"
+/>

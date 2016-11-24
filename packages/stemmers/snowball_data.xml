@@ -4,5 +4,5 @@
          Hungarian, Italian, Norwegian, Portuguese, Romanian, Russian,
          Spanish, Swedish, Turkish"
          webpage="https://github.com/snowballstem/snowball-data"
-         unzip="0"
+         unzip="1"
          />

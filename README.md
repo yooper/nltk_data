@@ -3,17 +3,17 @@ PHP Text Analysis (PTA) is a superset of NLTK data.
 
 List the available packages for download
 ```php 
-php textconsole nltk:list 
+php textconsole pta:list 
 ```
 
 Install Wordnet Corpus
 ```php
-php textconsole nltk:install wordnet
+php textconsole pta:install wordnet
 ```
 
 Install Everything
 ```php
-php textconsole nltk:install:all
+php textconsole pta:install:all
 ```
 
 For instructions please see https://github.com/yooper/php-text-analysis/wiki
