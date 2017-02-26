@@ -17,6 +17,7 @@
     <item ref="dependency_treebank"/>
     <item ref="floresta"/>
     <item ref="framenet_v15"/>
+    <item ref="framenet_v17"/>
     <item ref="gazetteers"/>
     <item ref="genesis"/>
     <item ref="gutenberg"/>
@@ -71,5 +72,6 @@
     <item ref="mte_teip5"/>
     <item ref="panlex_lite"/>
     <item ref="nonbreaking_prefixes"/>
+    <item ref="mwa_ppdb"/>
 </collection>
 

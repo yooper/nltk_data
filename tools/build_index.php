@@ -35,7 +35,8 @@ $getPackageFunc = function($filePath, $baseUrl = 'https://raw.githubusercontent.
     ];
     
     $xmlData = current(simplexml_load_file($filePath)->attributes());
-    $xmlData['subdir'] = end(explode("/", dirname($filePath)));
+    $exploded = explode("/", dirname($filePath));
+    $xmlData['subdir'] = end($exploded);
     $zipFileName = substr($filePath, 0, -3)."zip";
     if($xmlData['unzip'] == 1 && file_exists($zipFileName)) {
         $xmlData['checksum'] = md5_file($zipFileName);        
