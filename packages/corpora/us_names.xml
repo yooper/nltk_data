@@ -1,5 +1,5 @@
 <package id="us_names"
-         name="Census First Names and Surnames"
+         name="Census First Names and SSN Surnames"
          version="0.1"
          author="US Census Gov"
          license="Distributed with permission of the author."
